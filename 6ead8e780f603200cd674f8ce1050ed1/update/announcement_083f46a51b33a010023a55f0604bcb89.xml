@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="announcement">
+    <announcement action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <click_target>urlNew</click_target>
+        <details/>
+        <details_link_text>[PA AppSec] Daily Data Collection</details_link_text>
+        <details_page/>
+        <details_url>/sysauto_pa.do?sys_id=a3e006e0b3301300e64be12b86a8dc67</details_url>
+        <dismiss_options>session_dismissible</dismiss_options>
+        <display_first>false</display_first>
+        <display_style display_value="La Jolla Urgent">7f8fe758c31023002ff2554d81d3ae99</display_style>
+        <from>2021-04-28 15:32:42</from>
+        <glyph>info-circle</glyph>
+        <glyph_alt_text/>
+        <name>Alert : Appsec Daily Data Collection</name>
+        <public>false</public>
+        <roles>admin</roles>
+        <show_for_unauthenticated_users_only>false</show_for_unauthenticated_users_only>
+        <summary>Please assign unlock Run As user or assign valid user.</summary>
+        <sys_class_name>announcement</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-28 15:32:42</sys_created_on>
+        <sys_id>083f46a51b33a010023a55f0604bcb89</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Alert : Appsec Daily Data Collection</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>announcement_083f46a51b33a010023a55f0604bcb89</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-28 15:32:42</sys_updated_on>
+        <title>Invalid Run As User</title>
+        <to/>
+        <type>67eaf134e7a3320075c2a117c2f6a9d2,52fa79f8e763320075c2a117c2f6a991</type>
+    </announcement>
+    <sys_translated_text action="delete_multiple" query="documentkey=083f46a51b33a010023a55f0604bcb89"/>
+</record_update>

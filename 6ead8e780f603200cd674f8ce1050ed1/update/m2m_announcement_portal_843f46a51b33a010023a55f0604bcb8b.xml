@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_announcement_portal">
+    <m2m_announcement_portal action="INSERT_OR_UPDATE">
+        <announcement display_value="Alert : Appsec Daily Data Collection">083f46a51b33a010023a55f0604bcb89</announcement>
+        <order>100</order>
+        <sp_portal display_value="Instance Security Center">bebfa187536a1300a699ddeeff7b1223</sp_portal>
+        <sys_class_name>m2m_announcement_portal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-28 15:32:42</sys_created_on>
+        <sys_id>843f46a51b33a010023a55f0604bcb8b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Alert : Appsec Daily Data Collection.Instance Security Center</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>m2m_announcement_portal_843f46a51b33a010023a55f0604bcb8b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-28 15:32:42</sys_updated_on>
+    </m2m_announcement_portal>
+</record_update>
