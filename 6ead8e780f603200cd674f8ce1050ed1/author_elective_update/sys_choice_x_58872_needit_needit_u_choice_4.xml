@@ -41,6 +41,26 @@
             <element>u_choice_4</element>
             <hint/>
             <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-29 13:49:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1231c3b91b7fa010023a55f0604bcb04</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-29 13:49:47</sys_updated_on>
+            <value>Other</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_4</element>
+            <hint/>
+            <inactive>false</inactive>
             <label>Human Resources 2</label>
             <language>en</language>
             <name>x_58872_needit_needit</name>
